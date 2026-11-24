@@ -1,4 +1,4 @@
-## Mopsdoku – öffentliche Website
+## MOPSDOKU – öffentliche Website
 
 Krimi-Sudoku Spiel mit Möpsen. 100 Fälle. 100% offline.
 
@@ -12,7 +12,7 @@ Statische GitHub-Pages-Präsenz für die Android-App Mopsdoku (com.unbox_digital
 
 ## Über die App
 
-Mopsdoku verbindet klassisches Sudoku mit Krimi-Logikrätseln rund um Inspektor Schnüffel und 16 verschiedene Möpse. Die App bietet 50 Fälle im Kinder-Modus (10–13 Jahre, 4×4 bis 6×6) sowie 50 Fälle im Erwachsenen-Modus (5×5 bis 9×9) in fünf steigenden Schwierigkeitsstufen – inklusive interaktivem Tutorial und Tipp-System.
+MOPSDOKU verbindet klassisches Sudoku mit Krimi-Logikrätseln rund um Inspektor Schnüffel und 16 verschiedene Möpse. Die App bietet 50 Fälle im Kinder-Modus (10–13 Jahre, 4×4 bis 6×6) sowie 50 Fälle im Erwachsenen-Modus (5×5 bis 9×9) in fünf steigenden Schwierigkeitsstufen – inklusive interaktivem Tutorial und Tipp-System.
 
 ## Datenschutz & Offline-Nutzung
 
